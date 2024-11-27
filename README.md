@@ -4,7 +4,7 @@
 This repository contains all my professional certificates, showcasing my skills and expertise in various domains.
 
 ## Contents
-- [Data Analytics and Visualization Job Simulation Certificate](https://github.com/your-username/MyCertificates/blob/main/certificates/Data_Visualization_Certificate.pdf)
+- [Data Analytics and Visualization Job Simulation Certificate](https://github.com/nithyashakthi/MyCertificates/blob/main/forage%20certificate.pdf)
 
 ## Purpose
 The purpose of this repository is to:
