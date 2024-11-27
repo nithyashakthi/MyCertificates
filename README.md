@@ -5,6 +5,7 @@ This repository contains all my professional certificates, showcasing my skills 
 
 ## Contents
 - [Data Analytics and Visualization Job Simulation Certificate](https://github.com/nithyashakthi/MyCertificates/blob/main/forage%20certificate.pdf)
+- [HTML5-The Language](https://github.com/nithyashakthi/MyCertificates/blob/main/HTML5.pdf)
 
 ## Purpose
 The purpose of this repository is to:
