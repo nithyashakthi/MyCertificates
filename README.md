@@ -8,7 +8,8 @@ This repository contains all my professional certificates, showcasing my skills 
   
 - [HTML5-The Language](https://github.com/nithyashakthi/MyCertificates/blob/main/HTML5.pdf)
 - [ Tata Group's Data Visualisation: Empowering Business with Effective Insights](https://github.com/nithyashakthi/MyCertificates/blob/main/tata%20forage%20certification.pdf)
-- [Data Analytics Job Simulation ](https://github.com/nithyashakthi/MyCertificates/blob/main/Quantium%20certificate.pdf)
+- [Data Analytics Job Simulation - Quantium ](https://github.com/nithyashakthi/MyCertificates/blob/main/Quantium%20certificate.pdf)
+- [Data Analytics Job Simulation - Deloitte ](https://github.com/nithyashakthi/MyCertificates/blob/main/Deloitte%20certif.pdf)
 ## Purpose
 The purpose of this repository is to:
 - Provide a centralized location for all my professional certifications.
